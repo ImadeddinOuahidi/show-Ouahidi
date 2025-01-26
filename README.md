@@ -29,3 +29,13 @@ While Leonardo DiCaprio gave an iconic performance in *The Wolf of Wall Street*,
 | Matthew McConaughey | Charismatic and skilled at portraying eccentric characters | 55  |
 | Tom Hardy         | Dynamic and great with high-energy roles | 47  |
 | Bradley Cooper    | Captivating presence and strong comedic timing | 50  |
+
+---
+
+## Favorite Quotes
+
+> "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."  
+*Albert Einstein*
+
+> "Be the change that you wish to see in the world."  
+*Mahatma Gandhi*
